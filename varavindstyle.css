@@ -1,0 +1,35 @@
+body {
+    background-image: url('media/sparkle.gif');
+    background-size: cover;
+}
+
+
+#welcome {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#official_status_page_for {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+   	padding: 20px;
+}
+
+
+h1 {
+	padding-top: 160px;
+	text-align: center;
+	color: lightpink;
+}
+
+#check_status {
+	text-align: center;
+	font-size: 175%;
+
+}
+a {
+	color: lightpink;
+}
